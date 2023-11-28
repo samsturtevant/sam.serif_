@@ -1,0 +1,22 @@
+{
+  "name": "sam.serif_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsturtevant/sam.serif_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsturtevant/sam.serif_/issues"
+  },
+  "homepage": "https://github.com/samsturtevant/sam.serif_#readme",
+  "dependencies": {
+    "matter-js": "^0.19.0"
+  }
+}
